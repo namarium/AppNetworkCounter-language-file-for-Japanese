@@ -1,6 +1,6 @@
 # AppNetworkCounter 日本語 言語設定ファイル
 
-![screenshot](https://user-images.githubusercontent.com/12238431/70072932-4d100b00-163b-11ea-97bc-44f440e96a66.png)
+![screenshot](https://user-images.githubusercontent.com/12238431/70074333-d9233200-163d-11ea-8c0c-a25e0c81c5d4.png)
 
 ## これは何？
 トラフィック監視ソフトウェア [AppNetworkCounter](https://www.nirsoft.net/utils/app_network_counter.html) の言語設定ファイルです。  
