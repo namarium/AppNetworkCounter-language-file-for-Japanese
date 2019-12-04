@@ -6,7 +6,7 @@
 トラフィック監視ソフトウェア [AppNetworkCounter](https://www.nirsoft.net/utils/app_network_counter.html) の言語設定ファイルです。  
 
 言語設定ファイルに対応していたので、日本語のものを作りました。  
-独断と偏見で意訳・省略したテキストを多分に含むので、本家(NirSoft)には特に連絡していません。
+独断と偏見で意訳・省略したテキストを多分に含むので、気になるようであれば書き換えて下さい。
 
 ## 使い方
 このリポジトリにある、`AppNetworkCounter_lng.ini` を  
